@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   <img src="https://img.shields.io/badge/Language-Rust-orange.svg" />
-  <img src="https://img.shields.io/badge/Status-Stable-green.svg" />
+  <img src="https://img.shields.io/badge/Status-Stable-green.svg" /> 
+[![Discord](https://img.shields.io/discord/1472228640942194763?color=7289da&label=Rustaceans%20ITA&logo=discord&style=for-the-badge)](https://discord.gg/9fKHcrvEsU)
 </p>
 
 <h1 align="center">⚔️ Rust Final Battle - Multi-Character Battle System</h1>
